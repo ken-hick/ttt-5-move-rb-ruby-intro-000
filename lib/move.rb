@@ -17,5 +17,3 @@ def move(value)
       array[index] = value
   end
 end
-
-
