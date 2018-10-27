@@ -19,5 +19,3 @@ def move(value = "X")
   update_array_at_with(board, 0, "X")
   board
 end
-
-
