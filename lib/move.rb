@@ -17,5 +17,3 @@ def move(user_move)
       array[index] = value
   end
 end
-
-
